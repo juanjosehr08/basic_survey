@@ -77,6 +77,8 @@ def jd():
         print("Delicious! the beef are my favorites")
     elif example == "bandeja paisa":
         print("wow! thats a big feast!")
+    elif example == "chicharron":
+        print("I love crispy pork belly")
     else:
         print("it sounds sabroso!")
     

@@ -82,7 +82,6 @@ def jd():
     else:
         print("it sounds sabroso!")
     
-    
 #__________________________________________________________
 
 if food == "mexican":
